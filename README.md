@@ -1,3 +1,3 @@
 # unity-flashlight
 
-Training Flashlight - Unity #stayathome
+Training Flashlight - Unity
